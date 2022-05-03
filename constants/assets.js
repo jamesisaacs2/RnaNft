@@ -18,13 +18,14 @@ import person02 from "../assets/images/person02.png";
 import person03 from "../assets/images/person03.png";
 import person04 from "../assets/images/person04.png";
 
-export default {
+export default assets;
+
+export {
 	badge,
 	eth,
 	heart,
 	left,
 	search,
-
 	logo,
 	nft01,
 	nft02,
@@ -33,7 +34,6 @@ export default {
 	nft05,
 	nft06,
 	nft07,
-
 	person01,
 	person02,
 	person03,
